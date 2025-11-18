@@ -1,6 +1,9 @@
 # Articles
 Google drive link:
-https://drive.google.com/drive/folders/1BpLzehZYk7O7n9wbuz1sg-JK7I7CJv1x
+https://drive.google.com/drive/folders/1BpLzehZYk7O7n9wbuz1sg-JK7I7CJv1x  
+
+Articles:  
+
 
 An Efficient Deep Learning Method for Detection of COVID-19 Infection Using Chest X-ray Images  
 
