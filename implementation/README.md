@@ -3,13 +3,13 @@
 
 این پروژه بر اساس مقاله COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest X-Ray Images طراحی شده است. هدف این پروژه، استفاده از شبکه عصبی کانولوشنی عمیق برای تشخیص خودکار بیماری‌هایی مانند COVID-19، پنومونی و حالت طبیعی ریه‌ها از تصاویر Chest X-Ray است.
 
-* لینک مقاله اصلی: 
+لینک مقاله اصلی: 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9818579/
 
-* لینک گیت‌هاب پروژه مقاله: 
+لینک گیت‌هاب پروژه مقاله: 
 https://github.com/lindawangg/COVID-Net/tree/master
 
-* لینک ترجمه مقاله: 
+لینک ترجمه مقاله: 
 https://drive.google.com/file/d/1Jo9D0cCdLxCAEHUhOz9-tuhYS-gTfXWa/view?usp=drive_link
 
 **نحوه پیاده‌سازی**
